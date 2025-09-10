@@ -1,0 +1,21 @@
+
+/* NAVBAR */
+header img{
+    width: 20em;
+    height: auto;
+}
+.navbar {
+  background-color: #f1f8fc;
+}
+.navbar .navbar-brand {
+  color: #384050;
+}
+.navbar .nav-link {
+  color: #384050;
+}
+.navbar .nav-link:hover {
+  text-decoration: underline;
+}
+.navbar .form-control {
+  border-color: #f1f8fc;
+}

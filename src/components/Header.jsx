@@ -11,7 +11,7 @@ const Header = () => {
                     <div class="container">
                         <!-- Logo -->
                         <a href="/">
-                            <img src="./assets/documents/Logo.png" alt="Logo" class="left">
+                            <img src="../public/Logo.png" alt="Logo" class="left">
                         </a>
                     
                     {/*Burger*/}
